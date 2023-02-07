@@ -73,7 +73,7 @@ Main() {
 		Sleep, 50
 		Click
 		Sleep, 3000
-		Loop, 1 {
+		Loop, 7 {
 			BuyFish()
 			Sleep, 3000
 		}
